@@ -1,0 +1,26 @@
+﻿  Moc'ing codesample.h...
+  Uic'ing codesample.ui...
+  Moc'ing TableDialog.h...
+  Moc'ing ReportWidget.h...
+  Moc'ing ReportTextEdit.h...
+  Moc'ing ReportTabDialog.h...
+  Rcc'ing codesample.qrc...
+RCC : warning : No resources in 'C:\CodeSample\codesample.qrc'.
+  
+  codesample.cpp
+  moc_codesample.cpp
+  moc_ReportTabDialog.cpp
+  moc_ReportTextEdit.cpp
+  moc_ReportWidget.cpp
+  moc_TableDialog.cpp
+  main.cpp
+  ReportTabDialog.cpp
+  ReportTextEdit.cpp
+  ReportWidget.cpp
+  StringManager.cpp
+  StyleManager.cpp
+  TableDialog.cpp
+  코드를 생성하고 있습니다...
+  qrc_codesample.cpp
+  CodeSample.vcxproj -> C:\CodeSample\x64\Debug\CodeSample.exe
+  CodeSample.vcxproj -> C:\CodeSample\x64\Debug\CodeSample.pdb (Full PDB)
