@@ -15,8 +15,12 @@ enum class ImageResizingPointer
 
 class SelectedImageFormat
 {
+private:
+	SelectedImageFormat(const SelectedImageFormat& copy) {}
+	const SelectedImageFormat& operator=(const SelectedImageFormat& rhs) {}
+
 public:
-	explicit SelectedImageFormat();
+	SelectedImageFormat();
 	~SelectedImageFormat();
 
 private:
